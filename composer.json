@@ -1,7 +1,7 @@
 {
     "name": "vendor/metronic",
-    "description": "metroni theme build\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Cc theme build",
-    "type": "composer-plugin",
+    "type": "vendor-metronic",
+    "description": "metroni theme",
     "license": "gianluca tuono",
     "authors": [
         {
