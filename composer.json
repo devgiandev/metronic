@@ -1,0 +1,13 @@
+{
+    "name": "vendor/metronic",
+    "description": "metroni theme build\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Cc theme build",
+    "type": "library",
+    "license": "gianluca tuono",
+    "authors": [
+        {
+            "name": "devgiandev",
+            "email": "devgiandev@gmail.com"
+        }
+    ],
+    "require": {}
+}
