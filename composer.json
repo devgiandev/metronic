@@ -1,5 +1,5 @@
 {
-    "name": "metronic/theme",
+    "name": "vendor/metronic",
     "description": "metronic theme build",
     "type": "composer-plugin",
     "license": "gianluca tuono",
