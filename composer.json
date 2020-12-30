@@ -1,8 +1,8 @@
 {
-    "name": "vendor/metronic",
-    "type": "vendor-metronic",
-    "description": "metroni theme",
-    "license": "gianluca tuono",
+    "name": "metronic/metronic",
+    "description": "theme",
+    "type": "library",
+    "license": "Gianluca Tuono",
     "authors": [
         {
             "name": "devgiandev",
